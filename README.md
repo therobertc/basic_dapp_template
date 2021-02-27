@@ -1,1 +1,1 @@
-# dApp template with react and web3
+# dApp template with react hooks and web3
