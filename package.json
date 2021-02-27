@@ -1,0 +1,59 @@
+{
+  "name": "dapp_template",
+  "version": "0.1.0",
+  "private": true,
+  "description": "dApp template with web3",
+  "author": "dev@dappuniversity.com",
+  "homepage": ".",
+  "dependencies": {
+    "@testing-library/jest-dom": "5.11.9",
+    "@testing-library/react": "11.2.5",
+    "@testing-library/user-event": "12.6.3",
+    "@web3-react/abstract-connector": "latest",
+    "@web3-react/authereum-connector": "latest",
+    "@web3-react/core": "latest",
+    "@web3-react/fortmatic-connector": "latest",
+    "@web3-react/frame-connector": "latest",
+    "@web3-react/injected-connector": "latest",
+    "@web3-react/lattice-connector": "latest",
+    "@web3-react/ledger-connector": "latest",
+    "@web3-react/network-connector": "latest",
+    "@web3-react/portis-connector": "latest",
+    "@web3-react/torus-connector": "latest",
+    "@web3-react/trezor-connector": "latest",
+    "@web3-react/walletconnect-connector": "latest",
+    "@web3-react/walletlink-connector": "latest",
+    "@web3-react/magic-connector": "latest",
+    "bootstrap": "4.6.0",
+    "react": "17.0.1",
+    "react-bootstrap": "1.4.3",
+    "react-dom": "17.0.1",
+    "react-scripts": "4.0.2",
+    "web-vitals": "1.1.0",
+    "web3": "1.2.6"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
